@@ -1,2 +1,2 @@
 # TicTacToe
-I've crafted a personal portfolio using HTML, CSS, and JavaScript. It's a dynamic showcase of my skills, projects, and achievements, designed to captivate and engage visitors.
+Created this game using Html, CSS and JavaScript, Play an exciting game of Tic-Tac-Toe on this web-based platform. Challenge a friend to a head-to-head battle or test your skills against the AI. The sleek design and user-friendly interface make placing X's and O's a breeze. Experience the thrill of strategic gameplay as you try to outsmart your opponent. With hours of fun and entertainment, this Tic-Tac-Toe game is perfect for players of all ages.
